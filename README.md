@@ -28,16 +28,16 @@
 
 创建：
 
-<img src="C:\Users\wangq\AppData\Roaming\Typora\typora-user-images\image-20231219213128467.png" alt="image-20231219213128467" style="zoom: 30%;" />
+<img src="pic\image-20231219213128467.png" alt="image-20231219213128467" style="zoom: 30%;" />
 
 添加问题
 
-<img src="C:\Users\wangq\AppData\Roaming\Typora\typora-user-images\image-20231219213157762.png" alt="image-20231219213157762" style="zoom:33%;" />
+<img src="pic\image-20231219213157762.png" alt="image-20231219213157762" style="zoom:33%;" />
 
 
 
 答题界面
 
-<img src="C:\Users\wangq\AppData\Roaming\Typora\typora-user-images\image-20231218123021991.png" alt="image-20231218123021991" style="zoom:25%;" />
+<img src="pic\image-20231218123021991.png" alt="image-20231218123021991" style="zoom:25%;" />
 
-<img src="C:\Users\wangq\AppData\Roaming\Typora\typora-user-images\image-20231218123146733.png" alt="image-20231218123146733" style="zoom: 25%;" />
+<img src="pic\image-20231218123146733.png" alt="image-20231218123146733" style="zoom: 25%;" />
