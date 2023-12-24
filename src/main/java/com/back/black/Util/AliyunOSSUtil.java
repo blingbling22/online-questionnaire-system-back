@@ -16,8 +16,8 @@ public class AliyunOSSUtil {
     private static final String endpoint = "https://oss-cn-beijing.aliyuncs.com";
     // 从环境变量中获取访问凭证。运行本代码示例之前，请确保已设置环境变量OSS_ACCESS_KEY_ID和OSS_ACCESS_KEY_SECRET。
 //        EnvironmentVariableCredentialsProvider credentialsProvider = CredentialsProviderFactory.newEnvironmentVariableCredentialsProvider();
-    private static final String ACCESS_KEY_ID="LTAI5tLZt7qndhNjYkjoYTM9";
-    private static final String ACCESS_KEY_SECRET="Ajy2wmvLU13HLtRF6GEadzXDfaEiyr";
+    private static final String ACCESS_KEY_ID=" ";
+    private static final String ACCESS_KEY_SECRET=" ";
     // 填写Bucket名称，例如examplebucket。
     private static final String bucketName = "test-wqg";
     // 填写Object完整路径，完整路径中不能包含Bucket名称，例如exampledir/exampleobject.txt。
